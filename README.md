@@ -17,8 +17,7 @@ Project promoted by Rocketseat for teaching WEB technologies. Accompanied by.
 <br>
 
 <p align="center">
-  <img src="assets/preview.jpg" width="100%">
-    <img src="preview.jpg" width="100%">
+    <img src="preview.jpg.png" width="100%">
 </p>
 
 ## 🚀 Technologies 🚀
